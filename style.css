@@ -3,6 +3,10 @@ h1 {
 	font-family: 'Roboto', sans-serif;
 }
 
+h2 {
+	text-align: center;
+	font-family: 'Roboto', sans-serif;
+}
 .robots {
   display: flex;
   justify-content: center;
